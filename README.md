@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi GitHub,
+
+I am looking to become a professional developer. Hope this helps. 
