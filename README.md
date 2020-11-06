@@ -1,5 +1,3 @@
 # hello-world
 
-Hi GitHub,
-
-I am looking to become a professional developer. Hope this helps. 
+This is my first Java program. Simple Swing GUI application that prints Hello World after a button click.
